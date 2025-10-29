@@ -1,5 +1,4 @@
-package Pratica;
-
+package br.ufg.sistemapedidos;
 public class ClientePJ extends Cliente {
     private String cnpj; 
     private String razaoSocial;

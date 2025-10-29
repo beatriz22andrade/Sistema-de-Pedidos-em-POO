@@ -1,5 +1,4 @@
-package Pratica;
-
+package br.ufg.sistemapedidos;
 // CLASSE ABSTRATA 
 
 public abstract class Cliente {

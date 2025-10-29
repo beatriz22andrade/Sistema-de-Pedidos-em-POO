@@ -1,5 +1,4 @@
-package Pratica;
-
+package br.ufg.sistemapedidos;
 import java.time.LocalDate;
 
 public class ClientePF extends Cliente {

@@ -1,4 +1,4 @@
-package Pratica;
+package br.ufg.sistemapedidos;
 
 import java.time.LocalDate;
 

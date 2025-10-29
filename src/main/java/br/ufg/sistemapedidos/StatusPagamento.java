@@ -1,5 +1,4 @@
-package Pratica;
-
+package br.ufg.sistemapedidos;
 public enum StatusPagamento {
     PENDENTE,
     APROVADO,

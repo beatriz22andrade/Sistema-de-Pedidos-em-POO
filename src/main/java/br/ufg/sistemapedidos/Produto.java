@@ -1,5 +1,4 @@
-package Pratica;
-
+package br.ufg.sistemapedidos;
 public class Produto {
     protected String nome;
     protected double preco;
@@ -9,11 +8,12 @@ public class Produto {
 
     // CONTRUTOR
 
-    public Produto(String nome, double preco, int estoque, String id){
+    public Produto(String id, String nome, double preco, String descricao, int estoque){
+        this.id = id;
         this.nome = nome;
         this.preco = preco;
+        this.descricao = descricao;
         this.estoque = estoque;
-        this.id = id;
     }
 
     public void adicionarEstoque(int quantidade) {

@@ -1,4 +1,4 @@
-package Pratica;
+package br.ufg.sistemapedidos;
 
 public class ItemPedido {
     private Produto produto;
